@@ -19,6 +19,8 @@ func main() {
 
 	handler := apps.New(conn)
 
+	// all routes
+
 	// home
 	router.GET("/", auth.HomeHandler)
 
