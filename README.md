@@ -29,9 +29,10 @@ go run main.go
 
 server will run at http://localhost:8080
 
-### Login
+### Login Page
 
 username : admin
 
 password : password123
 
+After login, you can view all books, add, edit, and delete books.
